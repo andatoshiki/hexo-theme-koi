@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-koi",
-  "version": "0.0.12",
+  "version": "0.0.2",
   "description": "💖An elegant hexo theme for programmers to showcase their relationship!",
   "main": "index.js",
   "scripts": {},
