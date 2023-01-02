@@ -1,0 +1,24 @@
+{
+  "name": "hexo-theme-koi",
+  "version": "0.0.11",
+  "description": "💖An elegant hexo theme for programmers to showcase their relationship!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andatoshiki/hexo-theme-koi"
+  },
+  "homepage": "love.toshiki.dev",
+  "author": "Anda Toshiki <hello@toshiki.dev>",
+  "license": "MIT",
+  "keywords": [
+    "hexo",
+    "hexo-theme",
+    "andatoshiki",
+    "customization",
+    "love-showcase",
+    "love",
+    "love-letter",
+    "relationship"
+  ]
+}
